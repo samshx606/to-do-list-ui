@@ -1,0 +1,14 @@
+.add-task {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  align-items: center;
+}
+
+.add-input {
+  flex: 1;
+}
+
+.add-btn {
+  flex-shrink: 0;
+}
